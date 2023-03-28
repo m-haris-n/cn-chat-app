@@ -1,10 +1,10 @@
 const chatRooms = [
-    { id: 'dogs', title: '🐶 Dogs 🐶' },
-    { id: 'food', title: '🍔 Food 🍔' },
-    { id: 'general', title: '💬 General 💬' },
-    { id: 'news', title: '🗞 News 🗞' },
-    { id: 'music', title: '🎹 Music 🎹' },
-    { id: 'sports', title: '🏈 Sports 🏈' },
+   { id: "announcements", title: "Announcements" },
+   { id: "general", title: "General" },
+   { id: "news", title: "News" },
+   { id: "food", title: "Food" },
+   { id: "anime", title: "Anime" },
+   { id: "study", title: "Study Resources" },
 ];
 
 export { chatRooms };
